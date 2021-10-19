@@ -1,0 +1,64 @@
+/*ESTILOS DEL FOOTER*/
+
+.cont {
+  border-bottom: 1px solid #777;
+  border-top: 1px solid #777;
+}
+.footer {
+  font-weight: 500;
+  text-align: center;
+  margin: 10%;
+  padding: 2rem;
+  font-size: 1rem;
+  line-height: 3rem;
+  margin-top: 1.2rem;
+}
+
+.footer-bottom {
+  color: white;
+  width: 100%;
+}
+
+.foot {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.instagram i {
+  color: white;
+}
+
+.instagram {
+  display: inline-block;
+  width: 55px;
+  height: 55px;
+  border-radius: 8px;
+  font-size: 50px;
+  line-height: 55px;
+  vertical-align: middle;
+  background: #d6249f;
+  background: radial-gradient(
+    circle at 3% 100%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+}
+
+.twitter i {
+  color: white;
+}
+
+.twitter {
+  display: inline-block;
+  width: 55px;
+  height: 55px;
+  border-radius: 8px;
+  font-size: 50px;
+  line-height: 55px;
+  vertical-align: middle;
+  background: rgb(57, 193, 247);
+}

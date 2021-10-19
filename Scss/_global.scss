@@ -1,0 +1,16 @@
+body {
+  font-family: "Montserrat";
+}
+
+.home {
+  animation: desplazamiento 1s;
+}
+
+@keyframes desplazamiento {
+  0% {
+    padding-top: 100%;
+  }
+  100% {
+    padding-top: 0%;
+  }
+}
