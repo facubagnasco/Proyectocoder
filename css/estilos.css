@@ -225,4 +225,19 @@ textarea {
   min-height: 100px;
 }
 
+.section404 {
+  text-transform: uppercase;
+  text-decoration: bold;
+  background-color: #ddd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.link404 {
+  color: red;
+}
+
 /*# sourceMappingURL=estilos.css.map */
